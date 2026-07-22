@@ -217,7 +217,3 @@ Evaluation
 # 👨‍💻 Author
 
 ***AJMAL HASAN A***
-
-Machine Learning Enthusiast
-
-⭐ If you found this repository useful, don't forget to Star it!
